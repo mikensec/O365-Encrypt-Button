@@ -10,7 +10,7 @@ You might need to re-publish the solution with and code sign it in order for out
 .NET Framework 4.6.1
 
 ### Installing
-I have included a presigned/prebuilt "setup" you can run from the publish folder found in /O365 Encrypt Button/publish
+I have included a msi installer "Button.msi". 
 
 ## Built With
 Visual Studio Community 2017
