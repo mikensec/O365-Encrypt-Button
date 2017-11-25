@@ -8,6 +8,7 @@ You have to resign the code in order to publish it.
 
 ### Prerequisites
 .NET Framework 4.6.1
+Microsoft Visual Studio 2010 Tools for Office Runtime
 
 ### Installing
 Open the O365 Encrypt Button.sln in visual studio community 2017.
@@ -16,6 +17,7 @@ Edit the Signing and the Publish sections
 Build the solution
 
 I have included an unsigned prebuilt installer in install/ 
+-Download all contents of the install folder
 -Run setup.exe to install
 
 ## Built With
