@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" onLoad="Ribbon_Load">
+  <ribbon>
+    <tabs>
+      <tab id="ENCRYPTION" label="ENCRYPTION">
+        <group id="ContentGroup" label="New Encrypted E-mail">
+          <button id="textButton" label="New E-mail"
+               screentip="New Encrypted E-mail" imageMso="Lock" onAction="CreateMailItem"
+               supertip="Opens a new E-mail with all the required flags for server encryption"/>
+          
+        </group>
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI>
+
